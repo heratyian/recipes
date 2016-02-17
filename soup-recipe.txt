@@ -1,0 +1,13 @@
+Ingredients:
+    water
+    carrots
+    soup starter
+    meat
+    onions
+    salt and pepper (to taste)
+
+Directions:
+    1. Chop ingredients and put in pot
+    2. Boil water in a kettle and add it to the pot
+    3. Cook until tender
+    4. Enjoy!
